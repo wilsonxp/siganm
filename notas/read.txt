@@ -1,0 +1,2 @@
+el 26 de junio se crea la carpeta para el modulo de notas
+el 27 se crea el rchivo de coneccion
